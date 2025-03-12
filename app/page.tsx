@@ -8,7 +8,7 @@ export default function Home() {
           <header className="border-b border-gray-200 dark:border-gray-800 py-4 px-4 sm:px-6">
             <h1 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">AI Chatbot Conversation</h1>
           </header>
-          Chat interface
+          <ChatInterface />
         </div>
       </main>
     </div>
